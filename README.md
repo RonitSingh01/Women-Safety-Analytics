@@ -22,13 +22,13 @@ A full-stack, AI-powered women's safety platform built with React, Node.js, and 
 - Groq API Key (for the Jupyter notebook)
 
 #### Backend Setup
-1. Navigate to the backend folder: `cd "GEN AI Assignment/backend"`
+1. Navigate to the backend folder
 2. Install dependencies: `npm install`
 3. Create a `.env` file based on `.env.example` and add your keys (e.g., `GEMINI_API_KEY`, `PORT`, MongoDB URI).
 4. Start the server: `npm start` (or `node server.js`) - runs on port 5000 by default.
 
 #### Frontend Setup
-1. Navigate to the frontend folder: `cd "GEN AI Assignment/frontend"`
+1. Navigate to the frontend folder:
 2. Install dependencies: `npm install`
 3. Start the Vite development server: `npm run dev`
 
