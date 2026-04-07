@@ -1,15 +1,6 @@
-# Gen AI Assignment Project
 
-This repository contains two main components: a practical lab on prompt engineering using Groq and a full-stack Generative AI application for Women Safety Analytics.
 
-## 1. Prompt Engineering Lab (`Lab_Assignment.ipynb`)
-A Jupyter notebook demonstrating the capabilities of LLMs using the Groq API (`llama-3.1-8b-instant`). It covers several crucial prompt engineering techniques:
-- **Zero-Shot Prompting**: Direct task execution without examples.
-- **Few-Shot Prompting**: Providing examples to guide the model's output (e.g., sentiment classification).
-- **Chain of Thought (CoT)**: Step-by-step reasoning for problem-solving.
-- **Tree of Thoughts/Consistency Check**: Solving a problem using multiple reasoning paths to find the most consistent answer.
-
-## 2. Women Safety Analytics App (`GEN AI Assignment/`)
+## Women Safety Analytics App
 A full-stack, AI-powered women's safety platform built with React, Node.js, and Google's Gemini LLM. It analyzes real-time user situations and provides a situational risk assessment.
 
 ### Features
